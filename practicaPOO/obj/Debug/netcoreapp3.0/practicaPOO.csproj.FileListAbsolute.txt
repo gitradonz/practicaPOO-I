@@ -1,0 +1,11 @@
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.exe
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.deps.json
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.runtimeconfig.json
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.dll
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\bin\Debug\netcoreapp3.0\practicaPOO.pdb
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\obj\Debug\netcoreapp3.0\practicaPOO.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\obj\Debug\netcoreapp3.0\practicaPOO.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\obj\Debug\netcoreapp3.0\practicaPOO.AssemblyInfo.cs
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\obj\Debug\netcoreapp3.0\practicaPOO.dll
+C:\Users\pablo\source\repos\practicaPOO\practicaPOO\obj\Debug\netcoreapp3.0\practicaPOO.pdb
